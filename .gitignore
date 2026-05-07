@@ -1,0 +1,24 @@
+﻿# Local environment
+.env
+.env.*
+!.env.example
+
+# Dependencies / build outputs
+node_modules/
+.next/
+dist/
+build/
+coverage/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated artifacts
+*.log
+*.tmp
+test-results/
+exports/
+screenshots/
