@@ -126,4 +126,3 @@ This gate does not perform:
 - real customer data review
 - secret, env, token, cookie, session, credential, signed URL, raw provider, or
   raw source output
-
